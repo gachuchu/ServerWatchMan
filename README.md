@@ -1,3 +1,6 @@
+★Youtbuに説明動画載せてみました  
+https://youtu.be/KZhkf6lUtFM  
+  
 # サーバー監視君
 
 サーバーを監視してLINE BOTで監視内容を送信する  
